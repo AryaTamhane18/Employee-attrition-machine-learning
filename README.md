@@ -57,6 +57,7 @@ Models were evaluated using:
 
 ## Project Structure
 
+```
 ML_Portfolio_Project
 │
 ├── notebooks/
@@ -68,6 +69,7 @@ ML_Portfolio_Project
 ├── requirements.txt
 ├── README.md
 └── .gitignore
+```
 
 ## Author
 Arya Tamhane  
