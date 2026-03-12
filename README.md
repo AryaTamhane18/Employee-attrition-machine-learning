@@ -60,16 +60,23 @@ Models were evaluated using:
 ```
 ML_Portfolio_Project
 │
-├── notebooks/
+├── notebooks
 │   └── employee_attrition_ml_analysis.ipynb
 │
-├── data/
+├── data
 │   └── HR-Attrition.xls
 │
-├── requirements.txt
+├── report
+│   └── Arya_Tamhane_PROJECT_REPORT.pdf
+│
 ├── README.md
+├── requirements.txt
 └── .gitignore
 ```
+
+## Project Report
+
+The detailed project report is available in the `report` folder.
 
 ## Author
 Arya Tamhane  
