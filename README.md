@@ -67,7 +67,7 @@ ML_Portfolio_Project
 │   └── HR-Attrition.xls
 │
 ├── report
-│   └── Machine Learning Portfolio Project Report.docx
+│   └── Machine Learning Portfolio Project Report.pdf
 │
 ├── README.md
 ├── requirements.txt
