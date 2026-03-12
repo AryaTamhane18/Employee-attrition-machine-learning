@@ -67,7 +67,7 @@ ML_Portfolio_Project
 │   └── HR-Attrition.xls
 │
 ├── report
-│   └── Arya_Tamhane_PROJECT_REPORT.pdf
+│   └── Machine Learning Portfolio Project Report.docx
 │
 ├── README.md
 ├── requirements.txt
